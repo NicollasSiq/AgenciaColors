@@ -2,8 +2,6 @@
 
 Fiz um código para empresa Agência colors pra criar uma pagina estilizada com HTML e CSS
 
-# Agencia Colors
- <p>projeto landing page para a agência colors</p>
 <hr>
 
 <p><strong>Cabeçalho:</strong></p>
@@ -19,24 +17,22 @@ Fiz um código para empresa Agência colors pra criar uma pagina estilizada com 
 
 <br>
 
-
 <p><strong>Seção "Produto":</strong></p>
 <br>
 
-- Título: "Produto" (em destaque).
+- Título: "Produto"
 - Botão "Saiba Mais" com link para a página de detalhes do serviço.
 Seção "UX Design":
-- Título: "UX Design" (em destaque).
+- Título: "UX Design".
 - Botão "Saiba Mais" com link para a página de detalhes do serviço.
 Seção "Motion":
-- Título: "Motion" (em destaque).
+- Título: "Motion".
 - Botão "Saiba Mais" com link para a página de detalhes do serviço.
 Seção "Brand":
-- Título: "Brand" (em destaque).
+- Título: "Brand".
 - Botão "Saiba Mais" com link para a página de detalhes do serviço.
 Rodapé:
-- Links para as redes sociais da Agência Colors (Whatsapp).
-
+- Links para as redes sociais da Agência Colors.
 <br>
 
 <p><strong>Parte de elementos Visuais:</strong></p>
@@ -50,7 +46,6 @@ Rodapé:
 <br>
 <p><strong>Chamadas para Ação:</strong></p>
 <br>
-
 - Botões "Saiba Mais" em cada seção.
 - Links para as redes sociais com frases que incentivem o acompanhamento.
 
